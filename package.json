@@ -1,7 +1,7 @@
 {
-  "name": "fullstrack-nextjs-mongodb-auth",
+  "name": "fullstack-nextjs-mongodb-auth",
   "description": "Fullstack Next.js 13 app with MongoDB authentication",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
