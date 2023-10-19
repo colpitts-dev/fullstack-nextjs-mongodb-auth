@@ -1,6 +1,6 @@
 {
   "name": "fullstack-nextjs-mongodb-auth",
-  "description": "Fullstack Next.js 13 app with MongoDB authentication",
+  "description": "Fullstack Next.js authenticated App Router with mongoDB",
   "version": "0.1.1",
   "private": true,
   "scripts": {
